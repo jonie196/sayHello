@@ -4,7 +4,6 @@ backports.entry-points-selectable==1.1.1
 bottle==0.12.19
 bottle-websocket==0.2.9
 certifi==2020.12.5
-click==8.0.3
 distlib==0.3.3
 Eel==0.12.4
 filelock==3.4.0
@@ -25,7 +24,7 @@ platformdirs==2.4.0
 py2app==0.24
 pyinstaller==4.3
 pyinstaller-hooks-contrib==2021.1
-quo==2021.4.5
+quo
 six==1.16.0
 SQLAlchemy==1.4.27
 virtualenv==20.10.0
